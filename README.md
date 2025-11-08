@@ -1,2 +1,57 @@
-# privacy-policy
-隐私政策
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>隐私政策</title>
+  <style>
+    body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; margin: 40px; line-height: 1.7; color: #222; }
+    h1, h2, h3 { color: #00694f; }
+    h1 { font-size: 26px; }
+    h2 { font-size: 20px; margin-top: 30px; }
+    p { margin: 10px 0; }
+  </style>
+</head>
+<body>
+  <h1>隐私政策</h1>
+  <p><strong>更新时间：</strong>2025年11月</p>
+  <p><strong>生效时间：</strong>2025年11月</p>
+
+  <p>欢迎使用我们的应用（以下简称“本App”）。我们重视您的隐私与个人信息保护。本隐私政策将说明我们如何收集、使用、存储、保护和共享您的个人信息。</p>
+
+  <h2>一、我们收集的信息</h2>
+  <p>在您使用本App的过程中，我们可能会收集以下信息：</p>
+  <ul>
+    <li><strong>注册信息：</strong>包括手机号、昵称等基础资料，用于创建账户（当前版本中昵称和头像暂不支持修改）。</li>
+    <li><strong>咨询信息：</strong>当您向客服咨询、提交定制或鉴定需求时，可能会收集您的联系方式与咨询内容。</li>
+    <li><strong>设备信息：</strong>包括设备型号、系统版本、访问时间、IP 地址等，用于保障系统安全与优化体验。</li>
+  </ul>
+  <p>我们不会收集与支付、银行卡、身份认证等无关的敏感信息，因为本App不涉及在线支付或交易功能。</p>
+
+  <h2>二、我们如何使用您的信息</h2>
+  <ul>
+    <li>提供您所需的服务（如翡翠展示、咨询、定制或鉴定申请、学习资料等）；</li>
+    <li>响应您的咨询、售后或反馈；</li>
+    <li>优化产品功能和用户体验；</li>
+    <li>符合法律法规及监管要求的情形。</li>
+  </ul>
+
+  <h2>三、信息的存储与保护</h2>
+  <p>我们会采取加密和安全防护措施，防止您的个人信息被未经授权访问、披露或丢失。除法律要求或您明确授权外，我们不会向任何第三方披露您的个人信息。</p>
+
+  <h2>四、服务性质说明</h2>
+  <p>本App仅提供翡翠相关内容展示、咨询、定制与鉴定需求提交功能。本App<strong>不支持在线购买、下单、支付或交易行为</strong>，所有沟通均通过官方客服进行。</p>
+
+  <h2>五、未成年人保护</h2>
+  <p>若您未满18岁，请在监护人指导下使用本App。我们不会主动收集未成年人的个人信息。</p>
+
+  <h2>六、政策更新</h2>
+  <p>我们可能会根据法律法规或服务变化适时更新隐私政策，并在App内通知。继续使用即表示您同意更新后的内容。</p>
+
+  <h2>七、联系我们</h2>
+  <p>如您对本隐私政策有任何疑问或投诉，请联系我们：</p>
+  <p>客服邮箱：<a href="mailto:panhouyu@xuanlinzhubao.cn">panhouyu@xuanlinzhubao.cn</a><br>
+     联系电话：+86 15118872474<br>
+     工作时间：周一至周五 9:00–18:00</p>
+</body>
+</html>
