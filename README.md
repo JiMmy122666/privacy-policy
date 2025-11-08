@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>隐私政策</title>
   <style>
     body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; margin: 40px; line-height: 1.7; color: #222; }
