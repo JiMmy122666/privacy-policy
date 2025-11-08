@@ -1,12 +1,5 @@
 <!DOCTYPE html>
   <title>隐私政策</title>
-  <style>
-    body { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; margin: 40px; line-height: 1.7; color: #222; }
-    h1, h2, h3 { color: #00694f; }
-    h1 { font-size: 26px; }
-    h2 { font-size: 20px; margin-top: 30px; }
-    p { margin: 10px 0; }
-  </style>
 </head>
 <body>
   <h1>隐私政策</h1>
