@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-  <title>隐私政策</title>
 </head>
 <body>
   <h1>隐私政策</h1>
